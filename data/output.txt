@@ -1,0 +1,406 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>加速世界 - 川原砾 - 电击文库 - 轻小说文库</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="renderer" content="ie-comp" />
+<meta name="keywords" content="加速世界小说,加速世界下载,加速世界TXT,川原砾,电击文库,轻小说文库" />
+<meta name="description" content="加速世界是川原砾所写的轻小说,轻小说文库提供加速世界在线阅读与TXT电子书下载,与轻之国度同步更新,支持手机wap访问" />
+<meta http-equiv="Cache-Control" content="no-cache">
+<link rel="stylesheet" rev="stylesheet" href="http://www.wenku8.com/themes/wenku8/style.css" type="text/css" media="all" />
+<script language="javascript" type="text/javascript" src="http://www.wenku8.com/scripts/common.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.wenku8.com/themes/wenku8/theme.js"></script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?d72896ddbf8d27c750e3b365ea2fc902";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2072351202340055",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+<body>
+
+<div class="main m_top">
+<div class="fl">&nbsp;<b>轻小说文库(www.wenku8.com)</b>欢迎您，您可以选择[<a href="javascript:;" onclick="openDialog('http://www.wenku8.com/login.php?jumpurl=%2Fmodules%2Farticle%2Farticleinfo.php%3Fid%3D381&ajax_gets=jieqi_contents', false);">登录</a>]或者[<a href="http://www.wenku8.com/register.php">注册新用户</a>]！</div>
+
+<div class="fr"><a href="/newmessage.php?tosys=1">联系管理员</a>&nbsp;&nbsp;<a href="javascript:window.external.addFavorite('http://www.wenku8.com','轻小说文库')">加入收藏</a>&nbsp;&nbsp;<a href="http://www.wenku8.com/other/jubao.php">举报低俗</a>&nbsp;&nbsp;<a href="http://www.wenku8.com/other/help.php"><B>用户帮助</B></a>&nbsp;&nbsp;<a href="/modules/article/articleinfo.php?id=381&charset=big5">繁体版</a>(推荐)&nbsp;&nbsp;<a id="GB_BIG">繁體化</a>(备用)&nbsp;&nbsp;</div>
+</div>
+
+<div class="main m_head">
+<div class="h_logo"><a href="http://www.wenku8.com/"><img src="http://www.wenku8.com/themes/wenku8/logo.gif" border="0" alt="轻小说文库" /></a></div>
+<div class="h_banner">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728*90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2072351202340055"
+     data-ad-slot="9428033325"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+
+<div class="main nav">
+<div class="navinner">
+<ul class="navlist">
+  <li><a title="轻小说" href="http://www.wenku8.com/index.php">文库首页</a></li>
+
+  <li><a href="http://www.wenku8.com/modules/article/articlelist.php">轻小说列表</a></li>
+  <li><a href="http://www.wenku8.com/modules/article/toplist.php?sort=allvisit">热门轻小说</a></li>
+  <li><a href="http://www.wenku8.com/modules/article/toplist.php?sort=anime">动画化作品</a></li>
+  <li><a href="http://www.wenku8.com/modules/article/toplist.php?sort=lastupdate">今日更新</a></li>
+  <li><a href="http://www.wenku8.com/modules/article/toplist.php?sort=postdate">新书一览</a></li>
+  <li><a href="http://www.wenku8.com/modules/article/articlelist.php?fullflag=1">完结全本</a></li>
+
+  <li><a href="http://www.wenku8.com/top.php">热度排名</a></li>
+  <li><a href="http://www.wenku8.com/modules/article/reviewslist.php">书评吐槽</a></li>
+  <li><a href="http://www.wenku8.com/userdetail.php">用户面板</a></li>
+  </ul></div></div>
+
+
+<div class="main"><script type="text/javascript" src="/js/theme_728_90_1.js"></script></div>
+
+<div class="main">
+
+
+<div id="left">
+
+<div class="block">
+<div class="blocktitle"><span 
+class="txt">用户登录</span><span class="txtr"></span></div>
+<div class="blockcontent"><div style="padding-left:10px">
+
+
+<form name="frmlogin" method="post" action="http://www.wenku8.com/login.php">
+<ul class="ulrow">
+<li>用户名：<input type="text" class="text" size="10" maxlength="30" style="width:80px" name="username" onKeyPress="javascript: if (event.keyCode==32) return false;" ></li>
+<li>密　码：<input type="password" class="text" size="10" maxlength="30" style="width:80px" name="password"></li>
+
+<li>有效期：<select name="usecookie" class="select">
+              <option value="0">浏览器进程</option>
+              <option value="86400">保存一天</option>
+			  <option value="2592000">保存一月</option>
+			  <option value="315360000">保存一年</option>
+            </select></li>
+<li><input type="submit" class="button" value="&nbsp;登&nbsp;&nbsp;录&nbsp;" name="submit">
+<input type="hidden" name="action" value="login"></li>
+<li><a href="http://www.wenku8.com/register.php">新用户注册</a> &nbsp;&nbsp;<a href="http://www.wenku8.com/getpass.php">取回密码</a></li>
+</ul>
+</form>
+
+
+</div></div>
+</div>
+
+<div class="block">
+<div class="blocktitle"><span 
+class="txt">小说搜索</span><span class="txtr"></span></div>
+<div class="blockcontent">
+<form name="articlesearch" method="post" action="/so.php" target="_blank">
+<ul class="ulrow">
+<li>条&nbsp; 件：<select name="searchtype" id="searchtype" class="select">
+    <option value="articlename" selected>小说标题</option>
+    <option value="bdso">小说全文</option>
+    <option value="author">作者名称</option>
+  </select></li>
+<li>关键字：<input name="searchkey" type="text" class="text" id="searchkey" size="10" maxlength="50">
+<input type="hidden" name="charset" value="gbk" />
+</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" name="Submit" class="button" value="轻小说搜索"></li>
+</ul>
+</form>
+</div>
+</div>
+
+<div class="block">
+
+<div class="blockcontent"><div id="hm_t_76774"></div></div>
+</div>
+
+<div class="block">
+
+<div class="blockcontent"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 160*600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-2072351202340055"
+     data-ad-slot="7475452126"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+  
+</div>
+  <div id="centerm"><div id="content">
+<div style="width:96%;margin:auto;">
+     <table width="100%"  border="0" cellspacing="0" cellpadding="3">
+      <tr align="center">
+        <td colspan="2">
+            <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td width="90%" align="center" valign="middle"><span style="font-size:16px; font-weight: bold; line-height: 150%"><b>加速世界</b></span></td>
+                    <td width="10%" align="right" valign="middle">[<a href="http://www.wenku8.com/newmessage.php?tosys=1&title=%BE%D9%B1%A8%A3%BA%A1%B6%BC%D3%CB%D9%CA%C0%BD%E7%A1%B7&content=%CE%C4%D5%C2%B5%D8%D6%B7%A3%BA%0D%0Ahttp%3A%2F%2Fwww.wenku8.com%2Fbook%2F381.htm%0D%0A%0D%0A%BE%D9%B1%A8%D4%AD%D2%F2%C8%E7%CF%C2%A3%BA%0D%0A++++">举报</a>/<a href="http://www.wenku8.com/newmessage.php?tosys=1&title=%BE%D9%B1%A8%A3%BA%A1%B6%BC%D3%CB%D9%CA%C0%BD%E7%A1%B7&content=%CE%C4%D5%C2%B5%D8%D6%B7%A3%BA%0D%0Ahttp%3A%2F%2Fwww.wenku8.com%2Fbook%2F381.htm%0D%0A%0D%0A%BE%D9%B1%A8%D4%AD%D2%F2%C8%E7%CF%C2%A3%BA%0D%0A++++">报错</a>]&nbsp; </td>
+                </tr>
+            </table></td>
+        </tr>
+      <tr>
+        <td width="25%">文库分类：电击文库</td>
+        <td width="25%">小说作者：川原砾</td>
+      </tr>
+    </table>
+<div style="height:1px; background:#000000; overflow: hidden"></div>
+<div style="height:5px; overflow: hidden"></div>
+    <table width="100%"  border="0" cellspacing="0" cellpadding="3">
+      <tr>
+        <td width="26%" align="center" valign="top">
+          <img src="http://img.wenku8.com/image/0/381/381s.jpg" border="0" width="180" align="center" hspace="5" vspace="0" />
+	</td>
+        <td width="74%" valign="top">
+          <span class="hottext">内容简介：</span><br /><span style="font-size:14px;">无论时代如何进步，这世上总是少不了遭到霸凌的一方。肥胖的国中生春雪就是其中一名受害者。<br />
+只有玩着学校局域网络中设置的壁球游戏时，他才能得到不受打扰的平静。这款以虚拟角色挑战「速度」极限的游戏平凡无奇，但春雪却非常喜欢。<br />
+时值秋季，春雪在学校里过着一如往常的日子。因缘际会之下，他认识了有着全校第一美貌与气质的少女「黑雪公主」，却从此改变了他的人生。<br />
+透过少女传给他的一款神秘软件，春雪得知了「加速世界」的存在。从这一瞬间起，校内地位处于最底端的春雪，就成了保护公主的骑士「超频连线者」，<br />
+网络起家的超人气作家，终于以电击小说大赏&lt;大赏&gt;得主之姿正式出道!实力派作家笔下的未来青春娱乐小说极速登场!</span><br /><br />
+
+          <span class="hottext" style="font-size:18px;">本书公告：<br /><b>因版权问题，文库不再提供该小说的在线阅读与下载服务！<br />
+——轻小说文库</b></span><br /><br />
+
+      </td>
+      </tr>
+    </table>
+<div style="height:5px; overflow: hidden"></div>
+
+  
+
+
+<div style="margin:0px auto;overflow:hidden;">
+<div style="width:520px;margin:0px auto;">
+
+<span style="width:125px;display:inline-block;">
+<fieldset style="width:100px;height:35px;margin:0px;padding:0px;">
+<legend>专栏</legend>
+<div style="text-align:center"><a href=http://www.wenku8.com/modules/article/authorarticle.php?author=%B4%A8%D4%AD%C0%F9>同作者作品</a></div>
+</fieldset></span>
+
+<span style="width:125px;display:inline-block;">
+<fieldset style="width:100px;height:35px;margin:0px;padding:0px;">
+<legend>吐槽</legend>
+<div style="text-align:center"><a href="http://www.wenku8.com/modules/article/reviews.php?aid=381&type=all" target=_blank>书 评 区</a></div>
+</fieldset></span>
+
+</div></div>
+
+<div style="height:5px; overflow: hidden"></div>
+
+
+
+
+<div style="height:2px; overflow: hidden"></div>
+
+<table class="grid" width="100%" align="center">
+	 <tr><td width="4%" align="center"><span style="font-size:16px;">同<br>分<br>类<br>小<br>说<br>推<br>荐</span></td><td>
+<div style="height:155px;">
+  
+  <div style="float: left;text-align:center;width: 95px; height:155px;overflow:hidden;">
+    <a href="http://www.wenku8.com/book/1190.htm" target="_blank" title="司书，剪刀，短铅笔"><img src="http://img.wenku8.com/image/1/1190/1190s.jpg" border="0" width="90" height="127"></a><br /><a href="http://www.wenku8.com/book/1190.htm" target="_blank">司书，剪刀，短铅笔</a>
+  </div>
+  
+  <div style="float: left;text-align:center;width: 95px; height:155px;overflow:hidden;">
+    <a href="http://www.wenku8.com/book/1374.htm" target="_blank" title="齐藤爱丽丝是有害的"><img src="http://img.wenku8.com/image/1/1374/1374s.jpg" border="0" width="90" height="127"></a><br /><a href="http://www.wenku8.com/book/1374.htm" target="_blank">齐藤爱丽丝是有害的</a>
+  </div>
+  
+  <div style="float: left;text-align:center;width: 95px; height:155px;overflow:hidden;">
+    <a href="http://www.wenku8.com/book/1898.htm" target="_blank" title="F级的暴君"><img src="http://img.wenku8.com/image/1/1898/1898s.jpg" border="0" width="90" height="127"></a><br /><a href="http://www.wenku8.com/book/1898.htm" target="_blank">F级的暴君</a>
+  </div>
+  
+  <div style="float: left;text-align:center;width: 95px; height:155px;overflow:hidden;">
+    <a href="http://www.wenku8.com/book/1173.htm" target="_blank" title="宝贝公主Baby Princess"><img src="http://img.wenku8.com/image/1/1173/1173s.jpg" border="0" width="90" height="127"></a><br /><a href="http://www.wenku8.com/book/1173.htm" target="_blank">宝贝公主Baby Princess</a>
+  </div>
+  
+</div>
+        </td><td width="4%" align="center"><span style="font-size:16px;">同<br>分<br>类<br>完<br>本<br>推<br>荐</span></td><td>
+<div style="height:155px;">
+  
+  <div style="float: left;text-align:center;width: 95px; height:155px;overflow:hidden;">
+    <a href="http://www.wenku8.com/book/686.htm" target="_blank" title="Sweet☆Line-甜蜜☆阵线"><img src="http://img.wenku8.com/image/0/686/686s.jpg" border="0" width="90" height="127"></a><br /><a href="http://www.wenku8.com/book/686.htm" target="_blank">Sweet☆Line-甜蜜☆阵线</a>
+  </div>
+  
+  <div style="float: left;text-align:center;width: 95px; height:155px;overflow:hidden;">
+    <a href="http://www.wenku8.com/book/935.htm" target="_blank" title="东方香霖堂~curiosties of lotus asia~"><img src="http://img.wenku8.com/image/0/935/935s.jpg" border="0" width="90" height="127"></a><br /><a href="http://www.wenku8.com/book/935.htm" target="_blank">东方香霖堂~curiosties of lotus asia~</a>
+  </div>
+  
+  <div style="float: left;text-align:center;width: 95px; height:155px;overflow:hidden;">
+    <a href="http://www.wenku8.com/book/1818.htm" target="_blank" title="罪色之环 REJUDGEMENT"><img src="http://img.wenku8.com/image/1/1818/1818s.jpg" border="0" width="90" height="127"></a><br /><a href="http://www.wenku8.com/book/1818.htm" target="_blank">罪色之环 REJUDGEMENT</a>
+  </div>
+  
+</div>
+        </td></tr>
+</table>
+
+
+<div style="height:2px; overflow: hidden"></div>
+      <table class="grid" width="100%" align="center">
+	 <tr>
+          <td align="center" colspan="4" class="title">《加速世界》吐槽吧，不吐不快！[<a href="http://www.wenku8.com/modules/article/reviews.php?aid=381&type=all" target="_blank">查看全部吐槽</a>] </td>
+        </tr>
+	 <tr>
+          <td align="center" colspan="4" class="odd">如果你发现本小说有缺章少节、更新严重滞后的情况或无法下载小说，请立即通知管理员，我们将尽快跟进。</td>
+        </tr>
+    <tr>
+      <td width="51%" class="odd"><span class="hottext">[顶]</span>欢迎加入文库千人Q群：56102032、255149459、385413858</td>
+      <td width="18%" class="odd">回复(-)/查看(-)</td>
+      <td width="19%" class="odd">轻小说文库</td>
+      <td width="12%" class="odd">2010-05-09</td>
+    </tr>
+    <tr>
+      <td width="51%" class="odd"><span class="hottext">[顶]</span><a href="/other/booklist.php" target=_blank>独乐乐不如众乐乐 分享你的喜好 专题书单推荐征集</a></td>
+      <td width="18%" class="odd">回复(-)/查看(-)</td>
+      <td width="19%" class="odd">轻小说文库</td>
+      <td width="12%" class="odd">2014-10-17</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=158482" target="_blank">然而全喷了</a></td>
+      <td width="18%" class="odd">回复(1)/查看(22)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=226747" target="_blank">scannon</a></td>
+      <td width="12%" class="odd">12-27 23:28</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=158152" target="_blank">手指一加速，就点进来了→_→</a></td>
+      <td width="18%" class="odd">回复(2)/查看(52)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=170127" target="_blank">自在世界</a></td>
+      <td width="12%" class="odd">12-17 12:28</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=157699" target="_blank">20卷看来永远看不到了，唉</a></td>
+      <td width="18%" class="odd">回复(0)/查看(93)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=230041" target="_blank">幻影。破天</a></td>
+      <td width="12%" class="odd">12-01 10:56</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=157356" target="_blank">然而要怎么看呢(●—●)</a></td>
+      <td width="18%" class="odd">回复(4)/查看(256)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=182525" target="_blank">不是变态</a></td>
+      <td width="12%" class="odd">11-18 14:54</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=157351" target="_blank">终于更了QQ</a></td>
+      <td width="18%" class="odd">回复(1)/查看(88)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=174459" target="_blank">EryetChen</a></td>
+      <td width="12%" class="odd">11-18 11:51</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=157349" target="_blank">好感动,竟然更新了</a></td>
+      <td width="18%" class="odd">回复(0)/查看(64)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=267087" target="_blank">KannaHashimoto</a></td>
+      <td width="12%" class="odd">11-18 10:44</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=156085" target="_blank">有谁有资源</a></td>
+      <td width="18%" class="odd">回复(8)/查看(311)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=229430" target="_blank">15846726412</a></td>
+      <td width="12%" class="odd">09-21 20:59</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=156016" target="_blank">呜呜呜呜呜呜</a></td>
+      <td width="18%" class="odd">回复(1)/查看(91)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=261499" target="_blank">wo4283650</a></td>
+      <td width="12%" class="odd">09-17 12:55</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=155987" target="_blank">黑白相克看完，剧情卡在高潮初起的地方</a></td>
+      <td width="18%" class="odd">回复(0)/查看(103)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=69246" target="_blank">小小杀手很可爱</a></td>
+      <td width="12%" class="odd">09-15 23:00</td>
+    </tr>
+    
+    <tr>
+      <td width="51%" class="odd"><a href="http://www.wenku8.com/modules/article/reviewshow.php?rid=155054" target="_blank">这本书有更新是闹哪样...</a></td>
+      <td width="18%" class="odd">回复(12)/查看(445)</td>
+      <td width="19%" class="odd"><a href="http://www.wenku8.com/userpage.php?uid=212138" target="_blank">晴间伞</a></td>
+      <td width="12%" class="odd">08-09 21:22</td>
+    </tr>
+    
+     </table>
+
+
+<div style="height:5px; overflow: hidden"></div>
+
+        <form name="frmreview" method="post" action="http://www.wenku8.com/modules/article/reviews.php?aid=381">
+          <table class="grid" width="100%" align="center">
+              <caption>发表书评：</caption>
+			  <tr>
+			    <td class="odd" width="25%">标题</td>
+                  <td class="even"><input type='text' class='text' name='ptitle' id='ptitle' size='60' maxlength='60' value='' /></td>
+              </tr>
+              <tr>
+                <td class="odd" width="25%">内容<br /><br />发帖+1积分 严禁恶意灌水刷分<br /><b>违者积分清零或锁定账号</b><br />请勿发表攻击性言论<br /><b>严禁任何涉政治帖子 删无赦</b><br />剧透建议在标题处标明[剧透]</td>
+                  <td class="even"><textarea class="textarea" name="pcontent" id="pcontent" cols="60" rows="12"></textarea>
+				  <script language="javascript">loadJs("http://www.wenku8.com/scripts/ubbeditor_gbk.js", function(){UBBEditor.Create("pcontent");});</script></td>
+              </tr>
+              <tr>
+                <td class="odd" width="25%">&nbsp;</td>
+                  <td class="even"><input type="submit" name="Submit" class="button" value=" 发表书评 "></td>
+              </tr>
+          </table>
+      </form>
+
+
+</div>
+
+<script>document.write(unescape('%3Cdiv id="hm_t_76774"%3E%3C/div%3E%3Cscript charset="utf-8" src="http://crs.baidu.com/t.js?siteId=d72896ddbf8d27c750e3b365ea2fc902&planId=76774&async=0&referer=') + encodeURIComponent(document.referrer) + '&title=' + encodeURIComponent(document.title) + '&rnd=' + (+new Date) + unescape('"%3E%3C/script%3E'));</script></div>
+</div>
+
+</div>
+
+
+
+<div class="main m_foot">
+<B><a href="http://www.wenku8.com/">轻小说文库</a></B>所有内容均收集自其他网站，本站不参与组织扫图、翻译、录入等工作。<br>网站仅为写作爱好者及日语翻译学习交流提供试阅，如果你喜欢该作品，请联系相关出版机构购买正版！<br>
+
+Copyright (c) 2015 <a href="http://www.wenku8.com/">www.wenku8.com</a>. All rights reserved.<br>
+<span style="display:none">
+<script type="text/javascript" src="/GB_BIG5.js"></script>
+<script type="text/javascript">
+var defaultEncoding = 2;    // 1: 繁體中文, 2: 简体中文
+var translateDelay = 0;
+var cookieDomain = "http://www.wenku8.com";   ///修改成你的网站地址
+var msgToTraditionalChinese = "繁體化";
+var msgToSimplifiedChinese = "简体化";
+var translateButtonId = "GB_BIG";
+translateInitilization();
+</Script>
+
+<!-- JiaThis Button BEGIN -->
+<script type="text/javascript" src="http://v1.jiathis.com/code/jiathis_r.js?type=left&amp;move=0&amp;btn=l3.gif&amp;uid=905573" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+<script src="http://s25.cnzz.com/stat.php?id=1309966&web_id=1309966&show=pic" language="JavaScript"></script>
+
+</span>
+</div>
+<div style="display:none">
+<script src="https://s4.cnzz.com/z_stat.php?id=1259916661&web_id=1259916661" language="JavaScript"></script>
+</div>
+</body>
+</html>
